@@ -1,0 +1,508 @@
+/* ===============================
+   VARIABLES
+================================ */
+
+:root {
+    --white: #ffffff;
+    --graphite: #28323e;
+    --graphite-light: #344050;
+    --graphite-dark: #1e2630;
+    --accent: #3e4b5c;
+    --border: #d9dee4;
+}
+
+/* ===============================
+   POPUP BASE
+================================ */
+
+.popup-outer-box {
+    position: fixed;
+    inset: 0;
+    background: rgba(40, 50, 62, 0.75);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    z-index: 1000;
+}
+
+.popup-outer-box.active {
+    display: flex;
+}
+
+.popup-box {
+    width: 100%;
+    max-width: 520px;
+    background: var(--graphite);
+    color: var(--white);
+    border-radius: 20px;
+    padding: 32px;
+    position: relative;
+    box-shadow: 0 20px 50px rgba(0,0,0,.4);
+    max-height: calc(100vh - 32px);
+    overflow-y: auto;
+}
+.popup-box {
+    -webkit-overflow-scrolling: touch;
+}
+
+
+/* ===============================
+   CLOSE BUTTON
+================================ */
+
+.ico-close {
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+
+.ico-close::before,
+.ico-close::after {
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 6px;
+    width: 20px;
+    height: 2px;
+    background: var(--white);
+}
+
+.ico-close::before { transform: rotate(45deg); }
+.ico-close::after  { transform: rotate(-45deg); }
+
+/* ===============================
+   TITLE
+================================ */
+
+.popup-title-wrap {
+    margin-bottom: 24px;
+}
+
+.popup-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.popup-title-wrap p {
+    margin: 0;
+    font-size: 14px;
+    opacity: .85;
+}
+
+/* ===============================
+   FORM LAYOUT
+================================ */
+
+.frm-popup {
+    width: 100%;
+}
+
+.frm-row {
+    margin-bottom: 16px;
+}
+
+.frm-field {
+    width: 100%;
+}
+
+/* ===============================
+   INPUTS
+================================ */
+
+.frm-field-input {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.field-title {
+    font-size: 13px;
+    opacity: .9;
+}
+
+.form-input {
+    width: 100%;
+    height: 48px;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    background: #222c38;
+    padding: 0 14px;
+    font-size: 14px;
+    color: white;
+    transition: border-color .2s, box-shadow .2s;
+}
+
+.form-input:focus {
+    outline: none;
+    background: #222c38;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(62, 75, 92, .15);
+}
+
+textarea.form-input {
+    height: auto;
+    min-height: 110px;
+    padding-top: 12px;
+    resize: vertical;
+}
+
+.form-input::placeholder {
+    color: rgba(255,255,255,.5);
+}
+
+/* фокус, hover, disabled — фон не меняется */
+.form-input:focus,
+.form-input:hover,
+.form-input:disabled {
+    background: #222c38 !important; 
+    border-color: var(--accent); 
+    box-shadow: 0 0 0 2px rgba(62,75,92,.35);
+}
+
+/* textarea отдельный стиль */
+textarea.form-input {
+    min-height: 110px;
+    resize: vertical;
+    background: #222c38 !important;
+}
+
+.form_p {
+    color: white !important;
+}
+.form_text_small {
+    font-size: 12px !important;
+    line-height: 18px !important;
+}
+
+/* ===============================
+   FILE INPUT
+================================ */
+
+.frm-field-file input[type="file"] {
+    display: none;
+}
+
+.btn-file {
+    height: 48px;
+    width: 100%;
+    border-radius: 12px;
+    background: var(--graphite-light);
+    color: var(--white);
+    border: 1px dashed rgba(255,255,255,.35);
+    cursor: pointer;
+    transition: background .2s;
+}
+
+.btn-file:hover {
+    background: var(--accent);
+}
+
+/* ===============================
+   INFO TEXT
+================================ */
+
+.row-info {
+    font-size: 12px;
+    line-height: 1.4;
+    opacity: .85;
+}
+
+.row-info a {
+    color: var(--white);
+    text-decoration: underline;
+}
+
+/* ===============================
+   SUBMIT BUTTON
+================================ */
+
+.frm-row-submit {
+    margin-top: 24px;
+    text-align: center;
+}
+
+.btn {
+    height: 52px;
+    padding: 0 32px;
+    border-radius: 14px;
+    border: none;
+    background: var(--white);
+    color: var(--graphite);
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    transition: transform .15s, box-shadow .15s;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 20px rgba(0,0,0,.25);
+}
+
+.button-title {
+    margin-right: 10px;
+}
+
+.button-ico {
+    width: 20px;
+    height: 20px;
+}
+
+.button-ico img {
+    width: 100%;
+    display: block;
+}
+
+/* ===============================
+   RANGE SLIDER
+================================ */
+
+input[type="range"] {
+    width: 100%;
+    margin-top: 8px;
+}
+
+/* ===============================
+   RESPONSIVE
+================================ */
+
+@media (max-width: 480px) {
+    .popup-box {
+        padding: 24px 20px;
+        border-radius: 16px;
+    }
+
+    .popup-title {
+        font-size: 22px;
+    }
+
+    .btn {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 360px) {
+    .popup-title {
+        font-size: 20px;
+    }
+
+    .form-input {
+        font-size: 13px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+/* ===============================
+   MODERN RANGE SLIDER
+================================ */
+
+/* Общие стили текста для ползунка */
+#slider_text {
+    font-size: 14px !important;
+    color: var(--white);
+    margin-bottom: 6px;
+}
+
+/* Стили для самого ползунка */
+#slider {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 10px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    outline: none;
+    transition: background 0.3s ease;
+}
+
+#slider:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* Вебкит-бегунок */
+#slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    border: 2px solid #fff;
+}
+
+#slider::-webkit-slider-thumb:hover {
+    background: #45a049;
+    transform: scale(1.1);
+}
+
+/* Firefox бегунок */
+#slider::-moz-range-thumb {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: var(--accent);
+    cursor: pointer;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+#slider::-moz-range-thumb:hover {
+    background: #45a049;
+    transform: scale(1.1);
+}
+
+/* Кнопка отправки */
+#sendButton {
+    cursor: not-allowed;
+    opacity: 0.6;
+    transition: opacity 0.3s ease, transform 0.2s ease;
+}
+
+#sendButton.active {
+    cursor: pointer;
+    opacity: 1;
+    pointer-events: auto !important;
+    transform: translateY(0);
+}
+
+/* Линия прогресса до бегунка (для Chrome/Edge) */
+#slider::-webkit-slider-runnable-track {
+    height: 10px;
+    border-radius: 10px;
+    background: linear-gradient(to right, var(--accent) 0%, rgba(255,255,255,0.2) 100%);
+}
+
+/* Линия прогресса для Firefox */
+#slider::-moz-range-track {
+    height: 10px;
+    border-radius: 10px;
+    background: linear-gradient(to right, var(--accent) 0%, rgba(255,255,255,0.2) 100%);
+}
+
+
+
+
+
+
+
+
+/* ===============================
+   POPUP TEXT (COMPACT)
+================================ */
+
+#popup-text02 {
+    color: #fff;
+    font-size: 12px;
+    line-height: 1.45;
+}
+
+/* сбрасываем лишние отступы */
+#popup-text02 p,
+#popup-text02 div,
+#popup-text02 span,
+#popup-text02 li,
+#popup-text02 h1,
+#popup-text02 h2,
+#popup-text02 h3,
+#popup-text02 h4,
+#popup-text02 h5,
+#popup-text02 h6 {
+    color: #fff !important;
+}
+
+/* заголовки — компактные, не орущие */
+#popup-text02 h1 {
+    font-size: 16px;
+    line-height: 1.3;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+#popup-text02 h2 {
+    font-size: 14px;
+    line-height: 1.3;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+#popup-text02 h3,
+#popup-text02 h4,
+#popup-text02 h5,
+#popup-text02 h6 {
+    font-size: 13px;
+    line-height: 1.3;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+/* обычный текст */
+#popup-text02 p,
+#popup-text02 li {
+    font-size: 12px;
+    line-height: 1.45;
+}
+
+/* списки — плотные */
+#popup-text02 ul,
+#popup-text02 ol {
+    margin: 0 0 8px 16px;
+    padding: 0;
+}
+
+#popup-text02 li {
+    margin-bottom: 4px;
+}
+
+/* ссылки */
+#popup-text02 a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+.custom-toast {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: #0f9d58;
+    color: white;
+    padding: 16px 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    z-index: 9999;
+    font-size: 16px;
+    cursor: pointer;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.custom-toast.hide { opacity: 0; transform: translateY(-20px);}
+.custom-toast.error { background: #d93025; }

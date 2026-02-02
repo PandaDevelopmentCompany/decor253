@@ -1,0 +1,312 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+@font-face {
+    font-family: 'AROneSans-VariableFont_ARRR';
+    src: url('../fonts/AROneSans-VariableFont_ARRR.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Thesignature';
+    src: url('../fonts/Thesignature.ttf') format('truetype');
+}
+body {
+    font-family: 'AROneSans-VariableFont_ARRR' !important;
+}
+
+
+.table-preview th, .table-preview td {
+    border: 0.5px solid #000;
+}
+
+.table-preview {
+    border: 0.5px solid #000;
+}
+
+    .table-preview th, .table-preview td {
+        padding: 0.5rem 0.75rem !important;
+    }
+.bt-0 {
+    border-top: 0 !important;
+}
+
+.br-0 {
+    border-right: 0 !important;
+}
+.bl-0 {
+    border-left: 0 !important;
+}
+.bb-0 {
+    border-bottom: 0 !important;
+}
+.width-15-per {
+width:15% !important
+}
+.width-60-per {
+    width: 60% !important
+}
+.table-bordered thead td, .table-bordered thead th {
+    border-bottom-width: 1px !important;
+}
+.group-color {
+    background-color: #dedede !important;
+    color: #000 !important;
+    box-shadow: inset 0 0 0 1000px #dedede;
+}
+.sign-underline {
+    border-bottom: 1px solid #000;
+    width: 250px;
+    margin-top: 50px;
+    float: right;
+}
+.cursor-pointer {
+cursor:pointer;
+}
+.text-muted {
+    color: #9da9bb !important;
+}
+.fs-14 {
+    font-size: 14px !important;
+}
+.fs-16 {
+    font-size: 16px !important;
+}
+.fs-13 {
+    font-size: 13px !important;
+}
+
+.bl-0 {
+    border-left: 0;
+}
+.width-15-per {
+    width: 15%;
+}
+.table thead th {
+    vertical-align: middle;
+    border-bottom: 1px solid #000000;
+}
+.fw-400 {
+font-weight:400;
+}
+.fw-700 {
+    font-weight: 700;
+}
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+.fs-22 {
+    font-size:22px;
+}
+.font-size21px {
+    font-size: 21px;
+}
+.fs-18 {
+    font-size: 18px;
+}
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.showbox {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 5%;
+}
+
+.loader {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin: 0px auto;
+    width: 100px;
+}
+
+    .loader:before {
+        content: '';
+        display: block;
+        padding-top: 100%;
+    }
+
+.circular {
+    -webkit-animation: rotate 2s linear infinite;
+    animation: rotate 2s linear infinite;
+    height: 100%;
+    -webkit-transform-origin: center center;
+    -ms-transform-origin: center center;
+    transform-origin: center center;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.path {
+    stroke-dasharray: 1, 200;
+    stroke-dashoffset: 0;
+    -webkit-animation: dash 1.5s ease-in-out infinite, color 6s ease-in-out infinite;
+    animation: dash 1.5s ease-in-out infinite, color 6s ease-in-out infinite;
+    stroke-linecap: round;
+}
+
+@-webkit-keyframes rotate {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes rotate {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes dash {
+    0% {
+        stroke-dasharray: 1, 200;
+        stroke-dashoffset: 0;
+    }
+
+    50% {
+        stroke-dasharray: 89, 200;
+        stroke-dashoffset: -35;
+    }
+
+    100% {
+        stroke-dasharray: 89, 200;
+        stroke-dashoffset: -124;
+    }
+}
+
+@keyframes dash {
+    0% {
+        stroke-dasharray: 1, 200;
+        stroke-dashoffset: 0;
+    }
+
+    50% {
+        stroke-dasharray: 89, 200;
+        stroke-dashoffset: -35;
+    }
+
+    100% {
+        stroke-dasharray: 89, 200;
+        stroke-dashoffset: -124;
+    }
+}
+
+@-webkit-keyframes color {
+    100%, 0% {
+        stroke: #d62d20;
+    }
+
+    40% {
+        stroke: #0057e7;
+    }
+
+    66% {
+        stroke: #008744;
+    }
+
+    80%, 90% {
+        stroke: #ffa700;
+    }
+}
+
+@keyframes color {
+    100%, 0% {
+        stroke: #d62d20;
+    }
+
+    40% {
+        stroke: #0057e7;
+    }
+
+    66% {
+        stroke: #008744;
+    }
+
+    80%, 90% {
+        stroke: #ffa700;
+    }
+}
+

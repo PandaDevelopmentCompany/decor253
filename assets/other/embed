@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="2mlfOKP6C2zpVGsjzDVJZg">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["6093394062389584033","10223738832945268280"],"/g/11ybn_g12y",null,[476616052,3071622228],null,null,null,null,null,null,null,null,null,null,"gcid:general_contractor"],0,0,null,null,0,null,0]]]],null,["en","ca"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"kUd8aczbGNy_i-gP_4yf6AY",null,null,null,[[[2687.174561787886,-122.3345068,47.66160519999999],[0,0,0],null,13.10000038146973],null,0,[["0x5490159d9534a0a1:0x8de2044d0611c638","Kitchen \u0026 More, 1912 N 45th St, Seattle, WA 98103, United States",[47.6616052,-122.3345068],"10223738832945268280"],"Kitchen \u0026 More",["1912 N 45th St","Seattle, WA 98103","United States"],5,"41 reviews","https://search.google.com/local/reviews?placeid=ChIJoaA0lZ0VkFQROMYRBk0E4o0\u0026q=Kitchen+%26+More\u0026hl=en\u0026gl=CA",null,"+1 425-434-5509",null,null,null,["https://kitchenmore.com/showrooms/seattle-wa/","kitchenmore.com",null,null,",AOvVaw2725kvG5VHp0gJXto7DLDG,,0ahUKEwiM6KnYybKSAxXc3wIHHX_GB20Q61gIFCgQ,"],"General contractor","1912 N 45th St, Seattle, WA 98103, United States",null,null,null,null,null,null,null,null,null,null,null,null,null,"ChIJoaA0lZ0VkFQROMYRBk0E4o0",null,null,"0ahUKEwiM6KnYybKSAxXc3wIHHX_GB20Q8BcIAigA",null,null,["tel:+14254345509"],null,null,null,1,["0ahUKEwiM6KnYybKSAxXc3wIHHX_GB20QqtMBCA0oCg",["84VVMM68+J5"],["MM68+J5 Seattle, Washington, USA"],3],[[["Thursday",4,[2026,1,29],[["10 a.m.–5 p.m.",[[10],[17]]]],0,1],["Friday",5,[2026,1,30],[["10 a.m.–5 p.m.",[[10],[17]]]],0,1],["Saturday",6,[2026,1,31],[["10 a.m.–5 p.m.",[[10],[17]]]],0,1],["Sunday",7,[2026,2,1],[["Closed"]],0,2],["Monday",1,[2026,2,2],[["10 a.m.–5 p.m.",[[10],[17]]]],0,1],["Tuesday",2,[2026,2,3],[["10 a.m.–5 p.m.",[[10],[17]]]],0,1],["Wednesday",3,[2026,2,4],[["10 a.m.–5 p.m.",[[10],[17]]]],0,1]],[["Thursday",4,[2026,1,29],[["10 a.m.–5 p.m.",[[10],[17]]]],0,1],null,5,null,["Closed · Opens 10 a.m. Fri",[[0,6,[null,[4292621870,4294097077]]]]],["Closed · Opens 10 a.m. Fri",[[0,6,[null,[4292621870,4294097077]]]]],null,[24],["Closed",[[0,6,[null,[4292621870,4294097077]]]]]],4,null,null,null,1]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/63/13/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/63/13/init_embed.js" nonce="2mlfOKP6C2zpVGsjzDVJZg" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?client=google-maps-embed&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en&amp;region=ca&amp;callback=onApiLoad" nonce="2mlfOKP6C2zpVGsjzDVJZg" async defer></script>
+  </body>
+</html>

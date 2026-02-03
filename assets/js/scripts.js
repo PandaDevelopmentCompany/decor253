@@ -285,7 +285,7 @@ function showToast(message, isError = false, duration = 10000) {
 // ======================== SEND FORM WITH TOAST ========================
 function sendForm(form, hasFile = false) {
     const formData = new FormData(form);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbx1fAcP8rlGOnOsOUmyfmls-3GKE90huiAS0v5Skr9107tDeXXZe-5wayDFANmk9qop/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzqpjns9LbRnHjbhfPEvGoTUiPVghZzZ8xZWmXTjWeAe0k-jBugFmeCeH4AipkIZJhZ/exec';
     const fileInput = form.querySelector('input[type="file"]');
 
     showToast('⏳ Sending...', false, 7000); // Лоадер-сообщение

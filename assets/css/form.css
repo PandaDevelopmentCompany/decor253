@@ -132,7 +132,7 @@
     border: 1px solid var(--border);
     background: #222c38;
     padding: 0 14px;
-    font-size: 14px;
+    font-size: 16px;
     color: white;
     transition: border-color .2s, box-shadow .2s;
 }

@@ -4215,3 +4215,12 @@ iframe[src^="https://www.google.com/recaptcha"] {
 iframe[src*="recaptcha"] {
   display: none !important;
 }
+
+
+
+@media screen and (max-width: 576px) {
+body .is-layout-flex {
+    flex-direction: column;
+}    
+}
+

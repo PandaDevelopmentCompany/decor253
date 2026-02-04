@@ -3864,7 +3864,7 @@ html .wp-block-buttons.btns-fullwidth .wp-block-button__link {
 #popmake-3449 { padding: 0; border-radius: 0; border: none; box-shadow: none; background-color: #fff; overflow: hidden; }
 .p_mobile_banner { display:none; }
 .popup_grid { position:relative; }
-.popup_grid::after{ content: url('https://kitchenmore.com/wp-content/uploads/2024/09/popup_desktop_img.jpg'); position:absolute; right:0; top:0; height:100%; width:50%; }
+.popup_grid::after{ content: url('/assets/img/popup_desktop_img.jpg'); position:absolute; right:0; top:0; height:100%; width:50%; }
 .p_content { width:50%; padding: 50px 0;  }
 .p_ticker { background: #22B14C; color:#fff; font-size:20px; font-weight:700; text-align:center; font-family:"Montserrat",sans-serif,system-ui; padding: 10px 0; text-transform: uppercase; }
 .p_main_content h2 { font-size:46px; font-weight:900; text-align:center; color:#22B14C; font-family:"Montserrat",sans-serif,system-ui; margin: 30px 0 5px; text-transform: uppercase; }
@@ -3917,7 +3917,7 @@ html .wp-block-buttons.btns-fullwidth .wp-block-button__link {
     .k_showroom_banner .wp-block-genesis-blocks-gb-columns .gb-layout-column-wrap { display: flex !important; }
 	.entry-content .k_showroom_banner .wp-block-cover__image-background {
 			display: block !important;
-			background-image: url('https://kitchenmore.com/wp-content/uploads/2024/10/showroom-bg-m.jpg') !important;
+			background-image: url('/assets/img/showroom-bg-m.jpg') !important;
     }
 	.k_showroom_banner .k_hero_style h1 { color: #333 !important; }
 	.k_showroom_banner .k_hero_style p { color: #333 !important; }

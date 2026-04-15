@@ -160,7 +160,7 @@ var wraReview = {"ajax_url":"https:\/\/kitchenmore.com\/wp-admin\/admin-ajax.php
     font-family: var(--wvu__secondary_font_family);
     font-family: 400;
 }
-.ticss-4c5b48a7 .sub-heading { font-size: 0.6em !important; color: #22B14C; }.ticss-daebbf21, .ticss-daebbf21.wp-block-gallery[class*="columns-"]:not(.columns-default) {
+.ticss-4c5b48a7 .sub-heading { font-size: 0.6em !important; color: #d3ae8d; }.ticss-daebbf21, .ticss-daebbf21.wp-block-gallery[class*="columns-"]:not(.columns-default) {
   padding: 0;
   gap: 40px;
 }
@@ -224,7 +224,7 @@ var wraReview = {"ajax_url":"https:\/\/kitchenmore.com\/wp-admin\/admin-ajax.php
 	width:100%!important;
   }
 }.ticss-037138a2 {
-  color: #22b14c!important;
+  color: #d3ae8d!important;
     margin: 0!important;
     width: 50%;
     justify-content: center;
@@ -754,7 +754,7 @@ background: linear-gradient(90deg, rgb(238, 238, 238) 64%, rgb(202, 202, 202) 10
 .site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) { font-size: var( --wvu__ui_template___typography_body_sm ); }
 
 .ticss-e05a57a0{
-color:#22B14C !important;
+color:#d3ae8d !important;
 }.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {
     font-size: var(--wvu__ui_template___typography_body_md);
     font-family: var(--wvu__secondary_font_family);
@@ -763,7 +763,7 @@ color:#22B14C !important;
 .site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) { font-size: var( --wvu__ui_template___typography_body_sm ); }
 
 .ticss-22bd7bd8{
-color:#22B14C !important;
+color:#d3ae8d !important;
 }.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {
     font-size: var(--wvu__ui_template___typography_body_md);
     font-family: var(--wvu__secondary_font_family);
@@ -772,7 +772,7 @@ color:#22B14C !important;
 .site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) { font-size: var( --wvu__ui_template___typography_body_sm ); }
 
 .ticss-ae27604c{
-color:#22B14C !important;
+color:#d3ae8d !important;
 }.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {
     font-size: var(--wvu__ui_template___typography_body_md);
     font-family: var(--wvu__secondary_font_family);
@@ -781,7 +781,7 @@ color:#22B14C !important;
 .site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) { font-size: var( --wvu__ui_template___typography_body_sm ); }
 
 .ticss-8a9fd6ca{
-color:#22B14C !important;
+color:#d3ae8d !important;
 }.ticss-84f21d3e {
       --wvu__heading_font_weight: 400;
     --wvu__heading_font_family: var(--wvu__secondary_font_family);
@@ -1189,11 +1189,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons wv_banner_ptrn is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE QUOTE</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE QUOTE</a></div>
 
 
 
-<div class="wp-block-button is-style-outline is-style-outline--1" style=" --wvu__btn__text_color:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-text-color has-link-color has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">CALL 425 620 4737</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--1" style=" --wvu__btn__text_color:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-text-color has-link-color has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">CALL 425 620 4737</a></div>
 </div>
 
 
@@ -1371,7 +1371,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size wow smoothFadeInUp has-small-font-size" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/portfolio/#bathroom_profile" style="">View All Projects</a></div>
+<div class="wp-block-button has-custom-font-size wow smoothFadeInUp has-small-font-size" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/portfolio/#bathroom_profile" style="">View All Projects</a></div>
 </div>
 
 
@@ -1450,7 +1450,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons ticss-d6b99888 is-vertical is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-c0ca7d81 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/contact/" style="">Talk to an expert today</a></div>
+<div class="wp-block-button is-style-fill" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/contact/" style="">Talk to an expert today</a></div>
 </div>
 </div></div>
 </div></div>
@@ -1531,7 +1531,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button wow smoothFadeInUp" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">SCHEDULE AN IN-HOUSE CONSULTATION</a></div>
+<div class="wp-block-button wow smoothFadeInUp" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">SCHEDULE AN IN-HOUSE CONSULTATION</a></div>
 </div>
 </div></div>
 
@@ -1673,11 +1673,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE CONSULTATION</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE CONSULTATION</a></div>
 
 
 
-<div class="wp-block-button is-style-outline is-style-outline--4" style=" --wvu__btn__text_color:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-text-color has-link-color has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">ENQUIRIES? CALL 425 620 4737</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--4" style=" --wvu__btn__text_color:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-text-color has-link-color has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">ENQUIRIES? CALL 425 620 4737</a></div>
 </div>
 
 
@@ -1890,7 +1890,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons ticss-d6b99888 is-vertical is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4b2eccd6 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/contact/" style="">TALK TO OUR DESIGN EXPERTS</a></div>
+<div class="wp-block-button is-style-fill" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/contact/" style="">TALK TO OUR DESIGN EXPERTS</a></div>
 </div>
 </div></div>
 
@@ -1901,7 +1901,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<div class="wp-block-group alignfull wvu_section__group_wrapper ticss-29636355 has-background" style="background-color:#22b14c"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-group alignfull wvu_section__group_wrapper ticss-29636355 has-background" style="background-color:#d3ae8d"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
 <h4 class="wp-block-heading has-text-align-center wvu_custom__slideInHeading ticss-c5f434fd has-text-light-color has-text-color has-link-color wp-elements-7a2756871a5d382330b9fd06e448e29b"><strong><strong><strong>Local Bathroom Remodeling Specialists</strong></strong></strong> in <strong><strong><strong>Bellevue </strong></strong></strong></h4>
 
 
@@ -2025,7 +2025,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button wow smoothFadeInUp" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/google-reviews/" style="">more reviews</a></div>
+<div class="wp-block-button wow smoothFadeInUp" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/google-reviews/" style="">more reviews</a></div>
 </div>
 </div></div>
 
@@ -2037,14 +2037,14 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 					<a href="https://kitchenmore.com/bellevue-all-reviews/" class="more-reviews-button"> More Reviews </a>
 					</div><style>
 					.more-reviews-btn-div .more-reviews-button{
-						background-color: #22b14c; 
-						border: 1px solid #22b14c; 
+						background-color: #d3ae8d; 
+						border: 1px solid #d3ae8d; 
 						color: #ffffff;
 					}
 					.more-reviews-btn-div .more-reviews-button:hover {
 						background-color: #ffffff;
-						border: 1px solid #22b14c;
-						color: #22b14c;
+						border: 1px solid #d3ae8d;
+						color: #d3ae8d;
 					}
 					</style></div></div><script type="application/ld+json">{
     "@context": "https://schema.org/",
@@ -4387,7 +4387,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">CALL 425 620 4737</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">CALL 425 620 4737</a></div>
 </div>
 </div></div>
 </div></div>
@@ -4485,7 +4485,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">CALL 425 620 4737</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">CALL 425 620 4737</a></div>
 </div>
 </div></div>
 </div></div>
@@ -4515,7 +4515,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE QUOTE</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE QUOTE</a></div>
 </div>
 </div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="735" height="481" src="https://kitchenmore.com/wp-content/uploads/2024/08/smart-bathroom-technology.jpg" alt="smart bathroom technology" class="wp-image-2606 size-full" srcset="https://kitchenmore.com/wp-content/uploads/2024/08/smart-bathroom-technology.jpg 735w, https://kitchenmore.com/wp-content/uploads/2024/08/smart-bathroom-technology-300x196.jpg 300w" sizes="auto, (max-width: 735px) 100vw, 735px" /></figure></div>
 </div></div>
@@ -4545,7 +4545,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE ESTIMATE</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE ESTIMATE</a></div>
 </div>
 </div></div>
 </div></div>
@@ -4575,7 +4575,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">START YOUR PROJECT TODAY</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">START YOUR PROJECT TODAY</a></div>
 </div>
 </div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="735" height="695" src="https://kitchenmore.com/wp-content/uploads/2024/08/custom-bathroom-remodel.jpg" alt="bathroom remodel contractors" class="wp-image-2602 size-full" srcset="https://kitchenmore.com/wp-content/uploads/2024/08/custom-bathroom-remodel.jpg 735w, https://kitchenmore.com/wp-content/uploads/2024/08/custom-bathroom-remodel-300x284.jpg 300w" sizes="auto, (max-width: 735px) 100vw, 735px" /></figure></div>
 </div></div>
@@ -4722,7 +4722,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">INQUIRIES? CALL 425 620 4737</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="tel:4256204737" style="">INQUIRIES? CALL 425 620 4737</a></div>
 </div>
 </div></div></div>
 </div></div>
@@ -4755,7 +4755,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE ESTIMATE</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE ESTIMATE</a></div>
 </div>
 </div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="768" src="https://kitchenmore.com/wp-content/uploads/2025/08/showroom-seattle-wa-1-1024x768.jpg" alt="Showroom Seattle, WA" class="wp-image-6833 size-full" srcset="https://kitchenmore.com/wp-content/uploads/2025/08/showroom-seattle-wa-1-1024x768.jpg 1024w, https://kitchenmore.com/wp-content/uploads/2025/08/showroom-seattle-wa-1-300x225.jpg 300w, https://kitchenmore.com/wp-content/uploads/2025/08/showroom-seattle-wa-1-768x576.jpg 768w, https://kitchenmore.com/wp-content/uploads/2025/08/showroom-seattle-wa-1-1536x1152.jpg 1536w, https://kitchenmore.com/wp-content/uploads/2025/08/showroom-seattle-wa-1-2048x1536.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 </div></div>
@@ -4779,7 +4779,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 <div class="wp-block-genesis-blocks-gb-columns reversed-on-tablet gb-layout-columns-2 gb-2-col-wideright"><div class="gb-layout-column-wrap gb-block-layout-column-gap-2 gb-is-responsive-column">
 <div class="wp-block-genesis-blocks-gb-column gb-block-layout-column gb-is-vertically-aligned-center"><div class="gb-block-layout-column-inner">
-<h1 class="wp-block-heading ticss-88c3e7c9"><mark style="background-color:rgba(0, 0, 0, 0);color:#22b14c" class="has-inline-color">Kitchen &amp; Bathroom Showroom </mark><br>Kitchen &amp; More</h1>
+<h1 class="wp-block-heading ticss-88c3e7c9"><mark style="background-color:rgba(0, 0, 0, 0);color:#d3ae8d" class="has-inline-color">Kitchen &amp; Bathroom Showroom </mark><br>Kitchen &amp; More</h1>
 
 
 
@@ -4798,11 +4798,11 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons ticss-1090cd14 is-vertical is-layout-flex wp-container-core-buttons-is-layout-8cf370e7 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="tel:425 620-4737" style="">CALL 425 620-4737</a></div>
+<div class="wp-block-button is-style-fill" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="tel:425 620-4737" style="">CALL 425 620-4737</a></div>
 
 
 
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">SCHEDULE A VISIT</a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/consultation/" style="">SCHEDULE A VISIT</a></div>
 </div>
 </div></div>
 
@@ -4816,7 +4816,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 
-<div class="wp-block-group alignfull wvu_section__group_wrapper ticss-2bd7ff8b has-background" style="background-color:#22b14c"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-group alignfull wvu_section__group_wrapper ticss-2bd7ff8b has-background" style="background-color:#d3ae8d"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
 <h4 class="wp-block-heading has-text-align-center wvu_custom__slideInHeading ticss-c5f434fd has-text-light-color has-text-color has-link-color wp-elements-144c42222c496dbbf21af09fd30e0d17"><strong><strong>Your Trusted Bathroom Design Company</strong></strong></h4>
 
 
@@ -4966,7 +4966,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-countertops/" style=""><strong>KITCHEN COUNTERTOPS</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-countertops/" style=""><strong>KITCHEN COUNTERTOPS</strong></a></div>
 </div>
 </div>
 </div>
@@ -4995,7 +4995,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-cabinets-bellevue/" style=""><strong>KITCHEN CABINETS</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-cabinets-bellevue/" style=""><strong>KITCHEN CABINETS</strong></a></div>
 </div>
 </div>
 </div>
@@ -5024,7 +5024,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-remodeling-services/" style=""><strong>KITCHEN REMODELING</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-remodeling-services/" style=""><strong>KITCHEN REMODELING</strong></a></div>
 </div>
 </div>
 </div>
@@ -5157,7 +5157,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 
 
 <div class="wp-block-group alignfull wvu_section__consultation v2 no_pad"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-<div class="wp-block-columns are-vertically-aligned-center has-background is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex" style="background-color:#22b14c">
+<div class="wp-block-columns are-vertically-aligned-center has-background is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex" style="background-color:#d3ae8d">
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <p class="has-text-align-center content_label ticss-d3e57410 has-text-light-color has-text-color has-link-color wp-elements-fd1137d853a205732d614721275ae34d">Schedule a Free Consultation Now</p>
 </div>
@@ -5179,7 +5179,7 @@ decision. We are looking forward to working with Kitchen &amp; More again for ou
 <p style="padding-right: 30px;">
 	Our dedicated professionals will get back to you as soon as possible. Schedule an appointment today.
 </p><br>
-<div style="width: 180px;"> <a href="/consultation/" style="background-color: #22b14c; color: #fff !important;    padding: 10px 30px 10px 30px;
+<div style="width: 180px;"> <a href="/consultation/" style="background-color: #d3ae8d; color: #fff !important;    padding: 10px 30px 10px 30px;
  border-radius: 3px;">GET IN TOUCH</a></div></div></div></section>
 <section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widget-title widgettitle">Popular Services</h4>
 <nav class="menu-popular-services-container" aria-label="Popular Services"><ul id="menu-popular-services" class="menu"><li id="menu-item-1289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1289"><a href="https://kitchenmore.com">Kitchen Remodel Bellevue</a></li>

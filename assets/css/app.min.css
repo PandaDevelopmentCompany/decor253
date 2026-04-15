@@ -1,5 +1,5 @@
 :root {
-    --wvu__primary_color: #22b14c;
+    --wvu__primary_color: #d3ae8d;
     --wvu__secondary_color: #0070e0;
     --wvu__tertiary_color: #889dbc;
     --wvu__quaternary_color: #a8dcef;
@@ -728,7 +728,7 @@ html .wp-block-button.wvu__button.outline_dark .wp-block-button__link:hover {
 :not(.editor-styles-wrapper) .entry-content .wp-block-heading:not(.wvu__custom_font_size).wvu_custom__slideInHeadingBar,
 :not(.editor-styles-wrapper) .entry-content .wp-block-heading:not(.wvu__custom_font_size):not([class*="wvu__ui_template___typography_heading"]).wvu_custom__slideInHeadingBar {
     --wvu__WoWJS_PsuedoBefore__color: #fff;
-    --wvu__WoWJS_PsuedoBefore__bg: #22b14c;
+    --wvu__WoWJS_PsuedoBefore__bg: #d3ae8d;
     color: var(--wvu__WoWJS_PsuedoBefore__color);
     overflow: hidden;
     position: relative;
@@ -4850,7 +4850,7 @@ h6 {
     --wvu__blk_btn__gap: 15px;
     --wvu__btn__font_size: var(--wvu__ui_template___typography_body_sm);
     --wvu__btn__text_color: #fff;
-    --wvu__btn__background: #22b14c;
+    --wvu__btn__background: #d3ae8d;
     --wvu__btn__border_color: var(--wvu__btn__text_color);
     --wvu__btn_min_height: 50px;
     --wvu__btn_margin_top: 0px;

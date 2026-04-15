@@ -135,7 +135,7 @@ var wraReview = {"ajax_url":"https:\/\/kitchenmore.com\/wp-admin\/admin-ajax.php
     font-family: var(--wvu__secondary_font_family);
     font-weight: 400;
 }
-.ticss-4c5b48a7 .sub-heading { font-size: 0.6em !important; color: #22B14C; }.ticss-5fbbbf81, .ticss-5fbbbf81.wp-block-gallery[class*="columns-"]:not(.columns-default) {
+.ticss-4c5b48a7 .sub-heading { font-size: 0.6em !important; color: #d3ae8d; }.ticss-5fbbbf81, .ticss-5fbbbf81.wp-block-gallery[class*="columns-"]:not(.columns-default) {
   padding: 0;
   gap: 40px;
 }
@@ -202,7 +202,7 @@ var wraReview = {"ajax_url":"https:\/\/kitchenmore.com\/wp-admin\/admin-ajax.php
 	width:100%!important;
   }
 }.ticss-037138a2 {
-  color: #22b14c!important;
+  color: #d3ae8d!important;
     margin: 0!important;
     width: 50%;
     justify-content: center;
@@ -397,7 +397,7 @@ background: linear-gradient(90deg, rgb(238, 238, 238) 64%, rgb(202, 202, 202) 10
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #22B14C !important;
+    color: #d3ae8d !important;
     font-size: 42px !important;
     margin: 0 auto 30px !important;
     border: 1px solid #DDDDDD;
@@ -405,11 +405,11 @@ background: linear-gradient(90deg, rgb(238, 238, 238) 64%, rgb(202, 202, 202) 10
     gap: 30px;
     margin-top: 60px;
     grid-row-gap: 40px !important;
-}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #22B14C !important;n  font-size:42px !important;n  margin:0 auto 30px !important;n  border: 1px solid #DDDDDD;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #22B14C !important;n  font-size:42px !important;n  margin:0 auto !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.ticss-ffdb17b5{
+}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #d3ae8d !important;n  font-size:42px !important;n  margin:0 auto 30px !important;n  border: 1px solid #DDDDDD;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #d3ae8d !important;n  font-size:42px !important;n  margin:0 auto !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.ticss-ffdb17b5{
     gap: 30px;
     margin-top: 60px;
     grid-row-gap: 40px !important;
-}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #22B14C !important;n  font-size:42px !important;n  margin:0 auto !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #22B14C !important;n  font-size:42px !important;n  margin:0 auto !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #22B14C !important;n  font-size:42px !important;n  margin:0 auto !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #22B14C !important;n  font-size:42px !important;n  margin:0 auto 30px !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.ticss-0102a150{
+}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #d3ae8d !important;n  font-size:42px !important;n  margin:0 auto !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #d3ae8d !important;n  font-size:42px !important;n  margin:0 auto !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #d3ae8d !important;n  font-size:42px !important;n  margin:0 auto !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.k_counter {n  width:94px;n  height:94px;n  background:#fff;n  border-radius:50%;n  display:flex;n  justify-content:center;n  align-items:center;n  color: #d3ae8d !important;n  font-size:42px !important;n  margin:0 auto 30px !important;n}.site-container .ticss-945bab97.wp-block-heading:not([class*=wvu__ui_template___typography_heading]):not(.wvu__custom_font_size) {n    font-size: var(u002du002dwvu__ui_template___typography_body_md);n    font-family: var(u002du002dwvu__secondary_font_family);n    u002du002dwvu__heading_font_weight: 600;n}n.site-container .ticss-e1e84a8e:not(.wvu__custom_font_size) {n  font-size: var( u002du002dwvu__ui_template___typography_body_sm );n}.ticss-0102a150{
       --wvu__heading_font_weight: 400;
     --wvu__heading_font_family: var(--wvu__secondary_font_family);
   
@@ -802,11 +802,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons wv_banner_ptrn is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE Estimate</a></div>
+<div class="wp-block-button has-custom-font-size has-small-font-size" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style="">GET A FREE Estimate</a></div>
 
 
 
-<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size is-style-outline--1" style="--wvu__btn__text_color:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__text_color:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__text_color:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="tel:4256204737" style="">CALL 425 620 4737</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline has-small-font-size is-style-outline--1" style="--wvu__btn__text_color:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__text_color:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__text_color:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="tel:4256204737" style="">CALL 425 620 4737</a></div>
 </div>
 
 
@@ -963,7 +963,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size wow smoothFadeInUp has-small-font-size" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/portfolio/#kitchen_profile" style="">View All Projects</a></div>
+<div class="wp-block-button has-custom-font-size wow smoothFadeInUp has-small-font-size" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/portfolio/#kitchen_profile" style="">View All Projects</a></div>
 </div>
 </div></div>
 
@@ -1037,7 +1037,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons ticss-d6b99888 is-vertical is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-c0ca7d81 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/contact/" style="">Talk to an expert today</a></div>
+<div class="wp-block-button is-style-fill" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background has-small-font-size has-custom-font-size wp-element-button" href="https://kitchenmore.com/contact/" style="">Talk to an expert today</a></div>
 </div>
 </div></div>
 </div></div>
@@ -1118,7 +1118,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size wow smoothFadeInUp has-small-font-size" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style="">SCHEDULE AN IN-HOUSE CONSULTATION</a></div>
+<div class="wp-block-button has-custom-font-size wow smoothFadeInUp has-small-font-size" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style="">SCHEDULE AN IN-HOUSE CONSULTATION</a></div>
 </div>
 </div></div>
 
@@ -1234,7 +1234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size wow smoothFadeInUp has-small-font-size" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/google-reviews/" style="">more reviews</a></div>
+<div class="wp-block-button has-custom-font-size wow smoothFadeInUp has-small-font-size" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/google-reviews/" style="">more reviews</a></div>
 </div>
 </div></div>
 
@@ -1261,7 +1261,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-8048fc6c22426520992b7ca6a7af9b18" style="color:#22b14c">Free In-Home Consultation</h3>
+<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-8048fc6c22426520992b7ca6a7af9b18" style="color:#d3ae8d">Free In-Home Consultation</h3>
 
 
 
@@ -1283,7 +1283,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-a109afed7a274f19d2f445d293074437" style="color:#22b14c">Showroom Visit</h3>
+<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-a109afed7a274f19d2f445d293074437" style="color:#d3ae8d">Showroom Visit</h3>
 
 
 
@@ -1305,7 +1305,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-e220f9623a41c401aaf6eb83b7e674e2" style="color:#22b14c">Proposal Review</h3>
+<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-e220f9623a41c401aaf6eb83b7e674e2" style="color:#d3ae8d">Proposal Review</h3>
 
 
 
@@ -1327,7 +1327,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-e171ba4738f5ea6c219f0cdf56fe0321" style="color:#22b14c">Contract Signing</h3>
+<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-e171ba4738f5ea6c219f0cdf56fe0321" style="color:#d3ae8d">Contract Signing</h3>
 
 
 
@@ -1351,7 +1351,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-f01cc9a844473c07ca61d1687fce96b8" style="color:#22b14c">Design Phase</h3>
+<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-f01cc9a844473c07ca61d1687fce96b8" style="color:#d3ae8d">Design Phase</h3>
 
 
 
@@ -1373,7 +1373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-9a25afab473fd59e5b5fe4d0c76f818d" style="color:#22b14c">Site Measurement and Planning</h3>
+<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-9a25afab473fd59e5b5fe4d0c76f818d" style="color:#d3ae8d">Site Measurement and Planning</h3>
 
 
 
@@ -1395,7 +1395,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-920cdaea7510ef669f84b9820cc09ec7" style="color:#22b14c">Start of Work</h3>
+<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-920cdaea7510ef669f84b9820cc09ec7" style="color:#d3ae8d">Start of Work</h3>
 
 
 
@@ -1417,7 +1417,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-36cc35687d0804ae5643fe56e6ad7538" style="color:#22b14c">Completion and Walkthrough</h3>
+<h3 class="wp-block-heading has-text-align-center no_pad ticss-945bab97 has-text-color has-link-color has-larger-font-size wp-elements-36cc35687d0804ae5643fe56e6ad7538" style="color:#d3ae8d">Completion and Walkthrough</h3>
 
 
 
@@ -1430,7 +1430,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<div class="wp-block-group alignfull wvu_section__group_wrapper has-background" style="background-color:#22b14c"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained"><style>@media only screen and (max-width: 600px) {.gb-697c4611b70d9{font-size: 32px!important;}}</style>
+<div class="wp-block-group alignfull wvu_section__group_wrapper has-background" style="background-color:#d3ae8d"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained"><style>@media only screen and (max-width: 600px) {.gb-697c4611b70d9{font-size: 32px!important;}}</style>
 <h2 class="gb-697c4611b70d9 wp-block-heading has-text-align-center wvu_custom__slideInHeading ticss-0102a150 has-text-light-color has-text-color has-link-color wp-elements-d2d0f62facc79134a2ca911ab022d1bc" style="font-style:normal;font-weight:400">Kitchen Remodel Design Crafted for Everyday Living</h2>
 
 
@@ -1467,7 +1467,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style=""><strong>GET A FREE QUOTE</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style=""><strong>GET A FREE QUOTE</strong></a></div>
 </div>
 </div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="683" src="https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-renovation-enumclaw-1024x683.webp" alt="kitchen renovation Enumclaw" class="wp-image-5737 size-full" srcset="https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-renovation-enumclaw-1024x683.webp 1024w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-renovation-enumclaw-300x200.webp 300w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-renovation-enumclaw-768x512.webp 768w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-renovation-enumclaw-1536x1024.webp 1536w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-renovation-enumclaw-2048x1365.webp 2048w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-renovation-enumclaw-600x400.webp 600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 </div></div>
@@ -1493,7 +1493,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style=""><strong>SCHEDULE AN IN-HOUSE CONSULTATION</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style=""><strong>SCHEDULE AN IN-HOUSE CONSULTATION</strong></a></div>
 </div>
 </div></div>
 </div></div>
@@ -1531,7 +1531,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-cabinets-bellevue/" style=""><strong>KITCHEN CABINETS</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-cabinets-bellevue/" style=""><strong>KITCHEN CABINETS</strong></a></div>
 </div>
 </div>
 </div>
@@ -1560,7 +1560,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-countertops/" style=""><strong>KITCHEN COUNTERTOPS</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-countertops/" style=""><strong>KITCHEN COUNTERTOPS</strong></a></div>
 </div>
 </div>
 </div>
@@ -1589,7 +1589,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-accessories/" style=""><strong>KITCHEN ACCESSORIES</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/kitchen-accessories/" style=""><strong>KITCHEN ACCESSORIES</strong></a></div>
 </div>
 </div>
 </div>
@@ -1620,7 +1620,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/bathroom-remodeling-bellevue/" style=""><strong>BATHROOM REMODELING</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/bathroom-remodeling-bellevue/" style=""><strong>BATHROOM REMODELING</strong></a></div>
 </div>
 </div>
 </div>
@@ -1649,7 +1649,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/bathroom-countertops/" style=""><strong>BATHROOM COUNTERTOPS</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/bathroom-countertops/" style=""><strong>BATHROOM COUNTERTOPS</strong></a></div>
 </div>
 </div>
 </div>
@@ -1678,7 +1678,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/shower-remodeling/" style=""><strong>SHOWER REMODELING</strong></a></div>
+<div class="wp-block-button" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/shower-remodeling/" style=""><strong>SHOWER REMODELING</strong></a></div>
 </div>
 </div>
 </div>
@@ -1713,7 +1713,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-fdcfc74e wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style="">START YOUR PROJECT TODAY</a></div>
+<div class="wp-block-button has-custom-font-size has-small-font-size" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style="">START YOUR PROJECT TODAY</a></div>
 </div>
 </div><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="1024" height="658" src="https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-remodeling-enumclaw-1024x658.jpg" alt="kitchen renovation Enumclaw WA" class="wp-image-5718 size-full" srcset="https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-remodeling-enumclaw-1024x658.jpg 1024w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-remodeling-enumclaw-300x193.jpg 300w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-remodeling-enumclaw-768x494.jpg 768w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-remodeling-enumclaw-1536x987.jpg 1536w, https://kitchenmore.com/wp-content/uploads/2025/02/kitchen-remodeling-enumclaw-2048x1317.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure></div>
 </div></div>
@@ -1845,7 +1845,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-group alignfull wvu_section__consultation v2 no_pad"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
-<div class="wp-block-columns are-vertically-aligned-center has-background is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex" style="background-color:#22b14c">
+<div class="wp-block-columns are-vertically-aligned-center has-background is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex" style="background-color:#d3ae8d">
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
 <p class="has-text-align-center content_label ticss-d3e57410 has-text-light-color has-text-color has-link-color wp-elements-fd1137d853a205732d614721275ae34d">Schedule a Free Consultation Now</p>
 </div>
@@ -1867,7 +1867,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p style="padding-right: 30px;">
 	Our dedicated professionals will get back to you as soon as possible. Schedule an appointment today.
 </p><br>
-<div style="width: 180px;"> <a href="/consultation/" style="background-color: #22b14c; color: #fff !important;    padding: 10px 30px 10px 30px;
+<div style="width: 180px;"> <a href="/consultation/" style="background-color: #d3ae8d; color: #fff !important;    padding: 10px 30px 10px 30px;
  border-radius: 3px;">GET IN TOUCH</a></div></div></div></section>
 <section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widget-title widgettitle">Popular Services</h4>
 <nav class="menu-popular-services-container" aria-label="Popular Services"><ul id="menu-popular-services" class="menu"><li id="menu-item-1289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1289"><a href="https://kitchenmore.com">Kitchen Remodel Bellevue</a></li>
@@ -2010,7 +2010,7 @@ var sbiajaxurl = "https://kitchenmore.com/wp-admin/admin-ajax.php";
 :root :where(.wp-block-button.is-style-outline--4 .wp-block-button__link){background: transparent none;border-color: currentColor;border-width: 2px;border-style: solid;color: currentColor;padding-top: 0.667em;padding-right: 1.33em;padding-bottom: 0.667em;padding-left: 1.33em;}
 </style>
 <style id='core-block-supports-inline-css'>
-.wp-elements-328192422f908e24e9d3e68598a15543 a:where(:not(.wp-element-button)){color:#333333;}.wp-container-core-buttons-is-layout-fdcfc74e{justify-content:flex-start;}.wp-elements-5704f16ab7c568553d5aa3cec74f275e a:where(:not(.wp-element-button)){color:#333333;}.wp-block-gallery.wp-block-gallery-2{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-3{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-container-core-buttons-is-layout-16018d1d{justify-content:center;}.wp-elements-9d8e329d5706e918434af2f30c821042 a:where(:not(.wp-element-button)){color:#3b962f;}.wp-container-content-c00f5982{flex-basis:25px;}.wp-elements-9a995cd2234c196e5b3c4e0abd1c6ec1 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--tertiary);}.wp-elements-09f11933f7cb10ca21a4a874a097febe a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-elements-78d124c6a61416536510ceb9cb6e34e5 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-container-core-group-is-layout-57e26646{flex-direction:column;align-items:stretch;justify-content:center;}.wp-container-core-columns-is-layout-9d6595d7{flex-wrap:nowrap;}.wp-container-core-buttons-is-layout-c0ca7d81{flex-direction:column;align-items:flex-start;}.wp-elements-7dd0fd71ffc8b7bbd67589589d0d7e8c a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-0c3b8d70be88b6fa6d9d109519dab8d1 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-85a5ffb1d49a931c32370a5bc064c9ca a:where(:not(.wp-element-button)){color:#333333;}.wp-container-core-group-is-layout-4b2eccd6{flex-direction:column;align-items:center;}.wp-elements-00f4d2ebb37d5de3d4a02ddc94582875 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-3f2ab1719d1e7a7adb62f2e6b61b9fae a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-84004e325d352f9bfc059430e1a7d2df a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-905248096948b72e6b23c5416cf5dc2a a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-ac3635b52e1adef517e32a25b3642a65 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-elements-8048fc6c22426520992b7ca6a7af9b18 a:where(:not(.wp-element-button)){color:#22b14c;}.wp-elements-0068476f03dc97c95f44d21223a09016 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-a109afed7a274f19d2f445d293074437 a:where(:not(.wp-element-button)){color:#22b14c;}.wp-elements-0d81d62b03d93835cdd85050bf0abedd a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-e220f9623a41c401aaf6eb83b7e674e2 a:where(:not(.wp-element-button)){color:#22b14c;}.wp-elements-588cc72163f859f410845d5105c137f5 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-e171ba4738f5ea6c219f0cdf56fe0321 a:where(:not(.wp-element-button)){color:#22b14c;}.wp-elements-81704d133215b641a0cad3dbc0c85a73 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-f01cc9a844473c07ca61d1687fce96b8 a:where(:not(.wp-element-button)){color:#22b14c;}.wp-elements-db773e3ff2f3c50167825805f79dcf85 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-9a25afab473fd59e5b5fe4d0c76f818d a:where(:not(.wp-element-button)){color:#22b14c;}.wp-elements-66bd4ca82fccd5fc16e2bb985143f606 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-920cdaea7510ef669f84b9820cc09ec7 a:where(:not(.wp-element-button)){color:#22b14c;}.wp-elements-4ff1cf75432d25131e26b93d3975be8d a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-36cc35687d0804ae5643fe56e6ad7538 a:where(:not(.wp-element-button)){color:#22b14c;}.wp-elements-4e7cae27e90a6c6b1ed6244529dbca2e a:where(:not(.wp-element-button)){color:#333333;}.wp-container-core-group-is-layout-c0ca7d81{flex-direction:column;align-items:flex-start;}.wp-elements-d2d0f62facc79134a2ca911ab022d1bc a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-elements-b343d531cf0292539a2ca5f959f6c0ae a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-container-content-16d1eb73{flex-basis:20px;}.wp-container-content-b8e8afd0{flex-basis:15px;}.wp-elements-fd1137d853a205732d614721275ae34d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-container-core-buttons-is-layout-765c4724{justify-content:flex-end;}
+.wp-elements-328192422f908e24e9d3e68598a15543 a:where(:not(.wp-element-button)){color:#333333;}.wp-container-core-buttons-is-layout-fdcfc74e{justify-content:flex-start;}.wp-elements-5704f16ab7c568553d5aa3cec74f275e a:where(:not(.wp-element-button)){color:#333333;}.wp-block-gallery.wp-block-gallery-2{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-block-gallery.wp-block-gallery-3{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}.wp-container-core-buttons-is-layout-16018d1d{justify-content:center;}.wp-elements-9d8e329d5706e918434af2f30c821042 a:where(:not(.wp-element-button)){color:#3b962f;}.wp-container-content-c00f5982{flex-basis:25px;}.wp-elements-9a995cd2234c196e5b3c4e0abd1c6ec1 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--tertiary);}.wp-elements-09f11933f7cb10ca21a4a874a097febe a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-elements-78d124c6a61416536510ceb9cb6e34e5 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-container-core-group-is-layout-57e26646{flex-direction:column;align-items:stretch;justify-content:center;}.wp-container-core-columns-is-layout-9d6595d7{flex-wrap:nowrap;}.wp-container-core-buttons-is-layout-c0ca7d81{flex-direction:column;align-items:flex-start;}.wp-elements-7dd0fd71ffc8b7bbd67589589d0d7e8c a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-0c3b8d70be88b6fa6d9d109519dab8d1 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-85a5ffb1d49a931c32370a5bc064c9ca a:where(:not(.wp-element-button)){color:#333333;}.wp-container-core-group-is-layout-4b2eccd6{flex-direction:column;align-items:center;}.wp-elements-00f4d2ebb37d5de3d4a02ddc94582875 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-3f2ab1719d1e7a7adb62f2e6b61b9fae a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-84004e325d352f9bfc059430e1a7d2df a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-905248096948b72e6b23c5416cf5dc2a a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-ac3635b52e1adef517e32a25b3642a65 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-elements-8048fc6c22426520992b7ca6a7af9b18 a:where(:not(.wp-element-button)){color:#d3ae8d;}.wp-elements-0068476f03dc97c95f44d21223a09016 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-a109afed7a274f19d2f445d293074437 a:where(:not(.wp-element-button)){color:#d3ae8d;}.wp-elements-0d81d62b03d93835cdd85050bf0abedd a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-e220f9623a41c401aaf6eb83b7e674e2 a:where(:not(.wp-element-button)){color:#d3ae8d;}.wp-elements-588cc72163f859f410845d5105c137f5 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-e171ba4738f5ea6c219f0cdf56fe0321 a:where(:not(.wp-element-button)){color:#d3ae8d;}.wp-elements-81704d133215b641a0cad3dbc0c85a73 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-f01cc9a844473c07ca61d1687fce96b8 a:where(:not(.wp-element-button)){color:#d3ae8d;}.wp-elements-db773e3ff2f3c50167825805f79dcf85 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-9a25afab473fd59e5b5fe4d0c76f818d a:where(:not(.wp-element-button)){color:#d3ae8d;}.wp-elements-66bd4ca82fccd5fc16e2bb985143f606 a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-920cdaea7510ef669f84b9820cc09ec7 a:where(:not(.wp-element-button)){color:#d3ae8d;}.wp-elements-4ff1cf75432d25131e26b93d3975be8d a:where(:not(.wp-element-button)){color:#333333;}.wp-elements-36cc35687d0804ae5643fe56e6ad7538 a:where(:not(.wp-element-button)){color:#d3ae8d;}.wp-elements-4e7cae27e90a6c6b1ed6244529dbca2e a:where(:not(.wp-element-button)){color:#333333;}.wp-container-core-group-is-layout-c0ca7d81{flex-direction:column;align-items:flex-start;}.wp-elements-d2d0f62facc79134a2ca911ab022d1bc a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-elements-b343d531cf0292539a2ca5f959f6c0ae a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-container-content-16d1eb73{flex-basis:20px;}.wp-container-content-b8e8afd0{flex-basis:15px;}.wp-elements-fd1137d853a205732d614721275ae34d a:where(:not(.wp-element-button)){color:var(--wp--preset--color--text-light);}.wp-container-core-buttons-is-layout-765c4724{justify-content:flex-end;}
 </style>
 <script data-minify="1" id="erw-frontend-js" data-debloat-delay="1" data-src="https://kitchenmore.com/wp-content/cache/min/1/wp-content/plugins/erw-google-review/assets/js/erw-frontend.js?ver=1768307750"></script>
 <script id="lbwps-photoswipe5-js-extra">

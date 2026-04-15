@@ -295,7 +295,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-<div class="wp-block-button has-custom-font-size has-small-font-size" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#22b14c;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style="">FREE IN-HOME MEASUREMENT</a></div>
+<div class="wp-block-button has-custom-font-size has-small-font-size" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style="--wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;" style=" --wvu__btn__background:#d3ae8d;--wvu__btn__border_radius:4px;--wvu__btn__font_style:normal;--wvu__btn__font_weight:700;--wvu__btn__letter_spacing:1px;--wvu__btn__line_height:1.5;"><a class="wp-block-button__link has-background wp-element-button" href="https://kitchenmore.com/consultation/" style="">FREE IN-HOME MEASUREMENT</a></div>
 </div>
 </div></div>
 </div></div>
@@ -451,7 +451,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p style="padding-right: 30px;">
 	Our dedicated professionals will get back to you as soon as possible. Schedule an appointment today.
 </p><br>
-<div style="width: 180px;"> <a href="/consultation/" style="background-color: #22b14c; color: #fff !important;    padding: 10px 30px 10px 30px;
+<div style="width: 180px;"> <a href="/consultation/" style="background-color: #d3ae8d; color: #fff !important;    padding: 10px 30px 10px 30px;
  border-radius: 3px;">GET IN TOUCH</a></div></div></div></section>
 <section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><h4 class="widget-title widgettitle">Popular Services</h4>
 <nav class="menu-popular-services-container" aria-label="Popular Services"><ul id="menu-popular-services" class="menu"><li id="menu-item-1289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1289"><a href="https://kitchenmore.com">Kitchen Remodel Bellevue</a></li>

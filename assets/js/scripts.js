@@ -129,9 +129,11 @@ togglePopupButtons.forEach(button => {
         popupElementsClear();
         if (this.classList.contains('active')) {
             this.classList.remove('active');
+            document.body.classList.remove('popup-open');
         } else {
             popupElementsClose();
             this.classList.add('active');
+            document.body.classList.add('popup-open');
             if (this.closest('.popup-menu-wrap')) document.body.classList.add('menu-show');
             if (this.closest('.popup-search-wrap')) document.body.classList.add('search-show');
             if (this.closest('.popup-filter-wrap')) document.body.classList.add('filter-show');

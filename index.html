@@ -3229,36 +3229,20 @@ s0.parentNode.insertBefore(s1,s0);
 
 
 <script>
-(function () {
+setInterval(() => {
+  document.querySelectorAll('iframe').forEach(el => {
+    const style = el.getAttribute('style') || '';
 
-  function hideTawkBranding() {
-    document.querySelectorAll('iframe').forEach(el => {
-      const style = el.getAttribute('style') || '';
-
-      if (
-        style.includes('min-width: 350px') &&
-        style.includes('max-height: 45px')
-      ) {
-        el.style.display = 'none';
-      }
-    });
-  }
-
-  // запуск сразу
-  hideTawkBranding();
-
-  // следим за DOM мгновенно
-  const observer = new MutationObserver(() => {
-    hideTawkBranding();
+    if (
+      style.includes('min-width:350px') &&
+      style.includes('max-height:45px')
+    ) {
+      el.style.display = 'none';
+    }
   });
-
-  observer.observe(document.body, {
-    childList: true,
-    subtree: true
-  });
-
-})();
+}, 1000);
 </script>
+
 
 
 

@@ -3229,20 +3229,36 @@ s0.parentNode.insertBefore(s1,s0);
 
 
 <script>
-setInterval(() => {
-  document.querySelectorAll('iframe').forEach(el => {
-    const style = el.getAttribute('style') || '';
+(function () {
 
-    if (
-      style.includes('min-width:350px') &&
-      style.includes('max-height:45px')
-    ) {
-      el.style.display = 'none';
-    }
+  function hideTawkBranding() {
+    document.querySelectorAll('iframe').forEach(el => {
+      const style = el.getAttribute('style') || '';
+
+      if (
+        style.includes('min-width: 350px') &&
+        style.includes('max-height: 45px')
+      ) {
+        el.style.display = 'none';
+      }
+    });
+  }
+
+  // запуск сразу
+  hideTawkBranding();
+
+  // следим за DOM мгновенно
+  const observer = new MutationObserver(() => {
+    hideTawkBranding();
   });
-}, 1000);
-</script>
 
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
+  });
+
+})();
+</script>
 
 
 
